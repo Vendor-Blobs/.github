@@ -6,3 +6,9 @@
 - If you want to request, submit an [issue](https://github.com/Vendor-Blobs/.github/issues).
     - As long as theres existing Device Tree and Android Dump for that specific device, I'll do it.
 
+
+Credits:
+ - [Dumpyara](https://github.com/sebaubuntu-python/dumpyara)
+ - [DumprX](https://github.com/DumprX/DumprX)
+ - [AndroidDump](https://github.com/AndroidDumps/dumpyara)
+
