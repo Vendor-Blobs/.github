@@ -5,6 +5,8 @@
     - So I will be putting the Device Name in the Description Area just to be clear.
 - If you want to request, submit an [issue](https://github.com/Vendor-Blobs/.github/issues).
     - As long as theres existing Device Tree and Android Dump for that specific device, I'll do it.
+    
+Note: The gitLab instance where I usually get android dump, not working anymore. So I will be using other repo site or instance as my source.
 
 
 ## Credits:
